@@ -1,11 +1,13 @@
-﻿{
-	"name": "Ocean Fishin'",
-	"Author": "Sl0nderman",
-	"Punchline": "Suggests bait for ocean fishing.",
-	"Description": "Automatically recommends bait to use based on your ocean fishing route. \nYou'll get suggestions for spectral fish, fisher's intuition buff, and missions.",
-	"RepoUrl": "https://github.com/markjsosnowski/OceanFishin",
-	"Tags": [ "fishing", "bait", "duty" ],
-	"CategoryTags": [ "jobs" ],
-	"IconUrl": "https://raw.githubusercontent.com/markjsosnowski/OceanFishin/master/icon.png",
-	"ImageUrls": [ "https://raw.githubusercontent.com/markjsosnowski/OceanFishin/master/preview1.png" ]
-}
+﻿[
+	 {
+		"name": "Ocean Fishin'",
+		"Author": "Sl0nderman",
+		"Punchline": "Suggests bait for ocean fishing.",
+		"Description": "Automatically recommends bait to use based on your ocean fishing route. \nYou'll get suggestions for spectral fish, fisher's intuition buff, and missions.",
+		"RepoUrl": "https://github.com/markjsosnowski/OceanFishin",
+		"Tags": [ "fishing", "bait", "duty" ],
+		"CategoryTags": [ "jobs" ],
+		"IconUrl": "https://raw.githubusercontent.com/markjsosnowski/OceanFishin/master/icon.png",
+		"ImageUrls": [ "https://raw.githubusercontent.com/markjsosnowski/OceanFishin/master/preview1.png" ]
+	}
+]
